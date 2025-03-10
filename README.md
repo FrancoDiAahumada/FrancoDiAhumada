@@ -1,7 +1,7 @@
-![Welcome Banner](banner.gif)
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
+
 
 <h3> :woman: &nbsp;About Me </h3>
 
