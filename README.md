@@ -16,7 +16,7 @@
 - 🌱 Estoy aprendiendo: Italiano 
 - 👯 Siempre he querido trabajar: En ciencias de datos 
 - 💬 Preguntame lo que quieras: Estoy para ayudarte
-- 🌍 Yo Apoyo: Fundaciones que enseñan a niños a surfear y cuidado medio ambiental
+- 🌍 Yo Apoyo: Fundaciones que enseñan a niños a surfear y cuidado del medio ambiental
 - 💜 Intereses: Viajar, Surfear, Familia, El Mate, Bicicleta y aprender siempre
 - ⚡ Fun fact: Sigo Surfeando para algun dia ganar un campeonato. 🖖
 
