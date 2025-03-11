@@ -46,19 +46,13 @@
 
 <p>
 
-## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+## 📝 Proyectos Recientes
+### [ Dashboard Power Bi: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
+Usando la base de datos (Sqlite) de northwind cree un dashboard interactivo en el cual poder ver diferentes insight asociados a cantidades de productos y las ventas de estos por los empleados
 
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
-
-
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+### [EDA para proyecto de marketing: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
+Realice un analisis exploratorio de datos identificando patrones y machine learning .<br>
+Librerias utilizadas: Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
 
 </p>
 
