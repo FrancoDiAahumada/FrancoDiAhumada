@@ -9,17 +9,16 @@
 
 
 
-<h3> :woman: &nbsp;About Me </h3>
+<h3> 👨‍💻: &nbsp;Acerca de mi </h3>
 
-- 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: an NLP sentiment analysis project
-- :heart: My favorite language: SQL
-- 🌱 I’m currently learning: nueral nets and Mandarin
-- 👯 I’m always looking to collaborate with: scientist from any field
-- 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
-- ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
+- 🔭 Estoy en busca de trabajo
+- 💠: Mi lenguaje favorito es: SQL
+- 🌱 Estoy aprendiendo: Italiano y a Surfear
+- 👯 Siempre he querido trabajar: En ciencias de datos 
+- 💬 Preguntame lo que quieras: Estoy para ayudarte
+- 🌍 Yo Apoyo: Fundaciones que enseñan a niños a surfear y cuidado medio ambiental
+- 💜 Intereses: Viajar, Surfear, Familia, El Mate, Bicicleta y aprender siempre
+- ⚡ Fun fact: Sigo Surfeando para algun dia ganar un campeonato. 🖖
 
 <br/>
 
@@ -27,7 +26,7 @@
 
 - :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
