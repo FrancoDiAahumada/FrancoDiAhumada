@@ -54,6 +54,9 @@ Usando la base de datos (Sqlite) de northwind cree un dashboard interactivo en e
 Realice un analisis exploratorio de datos identificando patrones y machine learning .<br>
 Librerias utilizadas: Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
 
+### [ETL para proyecto de libreria: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
+Realice un ETL de datos del dataframe audible  .<br>
+Librerias utilizadas: Pandas, Numpy.
 </p>
 
 
